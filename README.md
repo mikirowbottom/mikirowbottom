@@ -1,9 +1,9 @@
 # University of Alberta Template Repository
 ## Full Stack Web Application Development Program
-===
+====
 
 ### Miki Rowbottom
-#### Decriptions about myself
+#### Descriptions about myself
 ----
 
 1. Describe your career and educational background
